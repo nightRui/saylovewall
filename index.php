@@ -11,7 +11,7 @@ if ( !isset($_SESSION['posts']) ) {
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <title>广西科技大学表白墙2016</title>
+    <title>漯河市实验中学</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-mobile/1.4.5/jquery.mobile.min.css" />
     <link rel="stylesheet" href="css/homepage.css" media="screen" title="no title">
@@ -34,7 +34,7 @@ if ( !isset($_SESSION['posts']) ) {
 <!-- 页头的信息 -->
 <div id="Header" class="Header" data-role="header">
     <img src="images/logo.png" class="Header-logo" width="100%" height="400px"  alt=""/>
-    <img src="images/title.png" class="Header-title" width="250px" alt="广西科技大学表白墙" />
+    <img src="images/title.png" class="Header-title" width="250px" alt="漯河市实验中学表白墙" />
     <!-- <h1>科大表白墙</h1> -->
 </div>
 
@@ -44,7 +44,7 @@ if ( !isset($_SESSION['posts']) ) {
     <img src="images/icon/heart.gif" alt="" class="loading"/>
 </div>
 <p style="text-align:center;color:#00bcd4;font-size:12px;">
-    博客链接： <a href="https://pingxonline.com/">https://pingxonline.com/</a>
+    博客链接： <a href="@楠猫">https://hmian.online/</a>
 </p>
 <p style="text-align:center;color:#9e9e9e;font-size:12px;">
     蓝色下划线：男生 / 红色下划线：女生 / 黑色下划线：保密
