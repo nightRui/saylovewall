@@ -16,9 +16,9 @@ class config
         // 数据库地址
         "host" => '127.0.0.1',
         // 数据库用户名
-        "user" => 'root',
+        "user" => 'apaappt1',
         // 数据库密码
-        "pass" => 'root',
+        "pass" => 'R8wPzc654k',
         // 对应的数据库名字
         "db_name" => 'saylovewall'
     ];
@@ -26,19 +26,19 @@ class config
     // 邮件发送配置
     public static $email_config = [
         // 邮件的主题名字
-        "SMTP_NAME" => "广西科技大学2016表白墙",
+        "SMTP_NAME" => "漯河市实验中学表白墙",
         // SMTP 用户名，如果是QQ邮箱申请的则填写QQ邮箱
-        "SMTP_USERNAME" => "597914752@qq.com",
+        "SMTP_USERNAME" => "2404999487@qq.com",
         // SMTP 邮箱地址，如果是QQ邮箱申请的则填写QQ邮箱
-        "SMTP_ADRESS" => "597914752@qq.com",
+        "SMTP_ADRESS" => "2404999487@qq.com",
         // SMTP 密码，如果是QQ邮箱申请的则填写开通SMTP服务后生成的密码
-        "SMTP_PASSWORD" => "SDJKGFHSDJKGHJK",
+        "SMTP_PASSWORD" => "dekpgatstefyebbc",
         // 分享地址，填写到能够访问该表白墙 share.php 文件的地址
         "SHARE_LINK" => "https://pingxonline.com/app/saylove/share.php",
         // 邮件标题
-        "EMAIL_TITLE" => "你被表白啦！来自广西科技大学表白墙",
+        "EMAIL_TITLE" => "你被表白啦！来自漯河市实验中学表白墙",
         // 邮件内容，{{link}} 为表白链接的占位符，可随意更改位置，系统自动替换为表白链接。
-        "EMAIL_BODY" => "你被表白啦！点击这里查看表白：{{link}}。<br>此封邮件来自广西科技大学表白墙应用<br>官网地址：https://pingxonline.com/app/saylove",
+        "EMAIL_BODY" => "你被表白啦！点击这里查看表白：{{link}}。<br>此封邮件来自漯河市实验中学表白墙应用<br>官网地址：http://apsapp.top",
         // 邮件发送成功返回
         "EMAIL_SUCCESS" => "邮件发送成功",
         // 邮件发送失败返回
