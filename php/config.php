@@ -58,6 +58,6 @@ class config
     // 后台登录账号密码
     public static $admin_config = [
         "admin_username" => "admin",
-        "admin_password" => "admin"
+        "admin_password" => "sy813ban"
     ];
 }
